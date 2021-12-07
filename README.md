@@ -28,10 +28,5 @@ List of all the components are
 
 *Note:* Those components need to setup in the same order for the application to work initially.
 
-Project Diagram
-
-![RoboShop Project EC2](diags/roboshop.jpg)
-
-## 1. Frontend Setup 
 
 
